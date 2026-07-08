@@ -222,34 +222,77 @@ flowchart LR
 
 ## 📜 Certifications & Badges
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td align="center" width="33%">
 
-⚫&nbsp;**Northwestern University** · Analytics & AI  
-⚫&nbsp;**IBM** · Solution Architect — Kubernetes & IBM Cloud Paks  
-⚫&nbsp;**Anthropic** · Model Context Protocol: Advanced Topics  
-⚫&nbsp;**IBM** · Generative & Agentic AI Foundation
+🏛️<br/>**Northwestern University**<br/>Analytics & AI
 
 </td>
-<td valign="top" width="33%">
+<td align="center" width="33%">
 
-⚫&nbsp;**IBM** · AI Associate Data Scientist  
-⚫&nbsp;**Stanford University** · Machine Learning  
-⚫&nbsp;**Hugging Face** · AI Agents Fundamentals  
-⚫&nbsp;**Duke University** · DevOps, DataOps, MLOps
+🔷<br/>**IBM**<br/>AI Associate Data Scientist
 
 </td>
-<td valign="top" width="33%">
+<td align="center" width="33%">
 
-⚫&nbsp;**Databricks Academy** · Generative AI Fundamentals  
-⚫&nbsp;**LangChain Academy** · LangGraph & LangSmith  
-⚫&nbsp;**IBM** · Trustworthy AI & AI Ethics  
-⚫&nbsp;**Microsoft** · Azure Machine Learning
+🧠<br/>**Databricks Academy**<br/>Generative AI Fundamentals
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+🔷<br/>**IBM**<br/>Solution Architect — Kubernetes & Cloud Paks
+
+</td>
+<td align="center">
+
+🎓<br/>**Stanford University**<br/>Machine Learning
+
+</td>
+<td align="center">
+
+🦜<br/>**LangChain Academy**<br/>LangGraph & LangSmith
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+🟠<br/>**Anthropic**<br/>Model Context Protocol: Advanced Topics
+
+</td>
+<td align="center">
+
+🤗<br/>**Hugging Face**<br/>AI Agents Fundamentals
+
+</td>
+<td align="center">
+
+🔷<br/>**IBM**<br/>Trustworthy AI & AI Ethics
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+🔷<br/>**IBM**<br/>Generative & Agentic AI Foundation
+
+</td>
+<td align="center">
+
+🎓<br/>**Duke University**<br/>DevOps, DataOps, MLOps
+
+</td>
+<td align="center">
+
+🔵<br/>**Microsoft**<br/>Azure Machine Learning
 
 </td>
 </tr>
 </table>
+
 
 <br/>
 
