@@ -48,7 +48,7 @@ flowchart LR
     A["🧑 User Request"] --> B["🧭 Planner<br/>NL → Workflow DAG"]
     B --> C["🔌 MCP Connectors<br/>SAP · Salesforce · ServiceNow · Workday"]
     B --> D["📚 RAG Retrieval<br/>Hybrid BM25 + Dense"]
-    B --> E["🛡️ Governance<br/>OpenScale · OpenPages"]
+    B --> E["🛡️ Governance<br/>OpenScale · OpenPages · AI FactSheets"]
     C --> F["✅ Response"]
     D --> F
     E --> F
