@@ -220,6 +220,49 @@ flowchart LR
 
 <br/>
 
+## 💡 Core Strengths
+
+<table width="100%">
+<tr>
+<th align="center" width="25%">🤖 AI / ML Core</th>
+<th align="center" width="25%">⚙️ Engineering & Infra</th>
+<th align="center" width="25%">📈 Business & Strategy</th>
+<th align="center" width="25%">🤝 Leadership</th>
+</tr>
+<tr>
+<td align="center">Agentic AI Design</td>
+<td align="center">Python (Expert)</td>
+<td align="center">Stakeholder Management</td>
+<td align="center">Technical Leadership</td>
+</tr>
+<tr>
+<td align="center">LLM Fine-Tuning (LoRA/RLHF)</td>
+<td align="center">MCP Server Design</td>
+<td align="center">Enterprise POC Delivery</td>
+<td align="center">Cross-Team Collaboration</td>
+</tr>
+<tr>
+<td align="center">Enterprise RAG Architecture</td>
+<td align="center">Kubernetes & Docker</td>
+<td align="center">AI Governance & Compliance</td>
+<td align="center">Executive Communication</td>
+</tr>
+<tr>
+<td align="center">Model Evaluation & Guardrails</td>
+<td align="center">Multi-Cloud (IBM/AWS/Azure)</td>
+<td align="center">Regulatory Readiness (EU AI Act)</td>
+<td align="center">Mentorship</td>
+</tr>
+<tr>
+<td align="center">Computer Vision (CNN/ViT)</td>
+<td align="center">API & OpenAPI Design</td>
+<td align="center">ROI & Cost Optimization</td>
+<td align="center">Problem Solving</td>
+</tr>
+</table>
+
+<br/>
+
 ## 📜 Certifications & Badges
 
 <table width="100%">
